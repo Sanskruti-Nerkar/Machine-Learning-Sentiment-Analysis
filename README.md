@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📋 Table of Contents
-- [Overview]
+- [Overview](#overview)
 - [Project Objectives](#project-objectives)
 - [Datasets](#datasets)
 - [Installation & Setup](#installation--setup)
