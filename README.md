@@ -529,7 +529,8 @@ Confusion matrices provide detailed insight into model classification behavior, 
 
 ### F1 Score Comparison
 
-![F1 Score Bar Chart](./results/plots/f1_comparison.png)
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/59b452bf-4a35-4f26-97d4-75751fac58ba" />
+
 *Figure 10: F1 score comparison across all models*
 
 ### Cross-Dataset Performance
