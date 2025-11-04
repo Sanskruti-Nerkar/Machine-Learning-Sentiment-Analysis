@@ -214,8 +214,9 @@ X_test_padded = pad_sequences(X_test_sequences, maxlen=maxlen,
 - `max_words=5000`: Vocabulary size
 - `maxlen=100`: Maximum sequence length
 - `oov_token="<OOV>"`: Out-of-vocabulary token handling
-
+<p align="center">
 <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/2b8c2030-60d2-4754-9b5b-ec877fea82f3" />
+</p>
 
 
 <p align="center">
@@ -431,8 +432,13 @@ hierarchical_model = AgglomerativeClustering(n_clusters=2, linkage='ward')
 clusters = hierarchical_model.fit_predict(X_test_tfidf.toarray())
 ```
 
-![Model Architecture Comparison](./results/plots/model_architectures.png)
-*Figure 3: Visual comparison of model architectures*
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/ae399d6f-71ad-4e32-975f-0178adc2b44b" />
+<p align="center">
+  <b>
+Figure 3: Model Comparison</b>
+</p>
+
+
 
 ## 📈 Experimental Results
 
