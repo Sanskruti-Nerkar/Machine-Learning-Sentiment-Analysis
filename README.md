@@ -215,7 +215,8 @@ X_test_padded = pad_sequences(X_test_sequences, maxlen=maxlen,
 - `maxlen=100`: Maximum sequence length
 - `oov_token="<OOV>"`: Out-of-vocabulary token handling
 <p align="center">
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/2b8c2030-60d2-4754-9b5b-ec877fea82f3" />
+<img width="600" height="392" alt="image" src="https://github.com/user-attachments/assets/6f3bb8ce-b9db-4096-9236-5b2165b49cf7" />
+
 </p>
 
 
@@ -431,8 +432,11 @@ from sklearn.cluster import AgglomerativeClustering
 hierarchical_model = AgglomerativeClustering(n_clusters=2, linkage='ward')
 clusters = hierarchical_model.fit_predict(X_test_tfidf.toarray())
 ```
+<img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/95d2f63c-0c75-4861-9b4e-b84d083edc49" />
+<img width="700" height="390" alt="image" src="https://github.com/user-attachments/assets/4b77a81c-7d7f-4eea-92bb-d14d846a3b5f" />
 
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/ae399d6f-71ad-4e32-975f-0178adc2b44b" />
+
+
 <p align="center">
   <b>
 Figure 3: Model Comparison</b>
