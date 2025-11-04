@@ -215,7 +215,8 @@ X_test_padded = pad_sequences(X_test_sequences, maxlen=maxlen,
 - `maxlen=100`: Maximum sequence length
 - `oov_token="<OOV>"`: Out-of-vocabulary token handling
 
-<img width="1170" height="559" alt="image" src="https://github.com/user-attachments/assets/312d8779-c503-4cd7-8824-43fdcb237424" />
+<img width="500" height="200" alt="image" src="<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/fb584711-066e-4b0f-b3d3-aa5f941d3d19" />
+" />
 
 <p align="center">
   <b>
