@@ -9,20 +9,20 @@
 
 | Section | Description |
 |----------|--------------|
-| [Overview](#overview) | Brief introduction to the project and its significance. |
-| [Project Objectives](#project-objectives) | Defines the goals and motivation behind the project. |
-| [Datasets](#datasets) | Details about the datasets used, their sources, and key features. |
-| [Installation & Setup](#installation--setup) | Step-by-step guide to set up the environment and dependencies. |
-| [Data Preprocessing Pipeline](#data-preprocessing-pipeline) | Explains data cleaning, tokenization, and transformation steps. |
-| [Models Implemented](#models-implemented) | Overview of ML and DL models applied in the project. |
-| [Experimental Results](#experimental-results) | Comparison of model performances and evaluation metrics. |
-| [Visualization & Analysis](#visualization--analysis) | Insights from visual representations such as graphs and heatmaps. |
-| [Usage Guide](#usage-guide) | Instructions on how to run and test the models. |
-| [Key Findings & Insights](#key-findings--insights) | Summary of important observations and interpretations. |
-| [Future Work](#future-work) | Potential improvements and next research directions. |
-| [Project Structure](#project-structure) | Description of repository files and organization. |
-| [Contributors](#contributors) | List of project authors and contributors. |
-| [License](#license) | Licensing information for the project. |
+| [Overview]( | Brief introduction to the project and its significance. |
+| [Project Objectives] | Defines the goals and motivation behind the project. |
+| [Datasets] | Details about the datasets used, their sources, and key features. |
+| [Installation & Setup] | Step-by-step guide to set up the environment and dependencies. |
+| [Data Preprocessing Pipeline] | Explains data cleaning, tokenization, and transformation steps. |
+| [Models Implemented] | Overview of ML and DL models applied in the project. |
+| [Experimental Results]| Comparison of model performances and evaluation metrics. |
+| [Visualization & Analysis] | Insights from visual representations such as graphs and heatmaps. |
+| [Usage Guide]| Instructions on how to run and test the models. |
+| [Key Findings & Insights] | Summary of important observations and interpretations. |
+| [Future Work]| Potential improvements and next research directions. |
+| [Project Structure| Description of repository files and organization. |
+| [Contributors] | List of project authors and contributors. |
+| [License]| Licensing information for the project. |
 
 ## 🎯 Overview
 
