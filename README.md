@@ -513,8 +513,7 @@ Figure 5: Visualization of Performance Metrics</b>
 
 **XGBoost > CNN > Random Forest > GRU > LSTM > SVM > Logistic Regression > Naive Bayes**
 
-![Performance Hierarchy](./results/plots/performance_hierarchy.png)
-*Figure 7: Overall model ranking across all experiments*
+
 
 ## 📊 Visualization & Analysis
 
@@ -522,8 +521,6 @@ Figure 5: Visualization of Performance Metrics</b>
 
 Confusion matrices provide detailed insight into model classification behavior, showing true positives, true negatives, false positives, and false negatives.
 
-![Confusion Matrices - All Models](./results/plots/confusion_matrices_all.png)
-*Figure 8: Confusion matrices for all models on Dataset 1*
 
 **Key Insights from Confusion Matrices:**
 - Most models showed higher false positives than false negatives
@@ -533,19 +530,21 @@ Confusion matrices provide detailed insight into model classification behavior, 
 
 ### Model Accuracy Comparison
 
-![Accuracy Bar Chart](./results/plots/accuracy_comparison.png)
-*Figure 9: Accuracy comparison across all models*
 
 ### F1 Score Comparison
 
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/59b452bf-4a35-4f26-97d4-75751fac58ba" />
 
-*Figure 10: F1 score comparison across all models*
+<p align="center">
+  <b>
+Figure 6: F1 score comparison across all models</b>
+</p>
+
+
+
 
 ### Cross-Dataset Performance
 
-![Cross-Dataset Performance](./results/plots/cross_dataset_comparison.png)
-*Figure 11: Model performance comparison across datasets*
 
 **Analysis:**
 - Models showed significant performance variation across datasets
