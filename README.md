@@ -853,7 +853,7 @@ loaded_lstm = load_model('models/lstm_sentiment.h5')
 <img width="1477" height="989" alt="image" src="https://github.com/user-attachments/assets/65ef822e-c216-4bc9-86ef-49c0aaff54bb" />
 <p align="center">
   <b>
-Figure 12: Graph representing  </b>
+Figure 12: Graph representing the Results after implementing all the models </b>
 </p>
 ### Key Achievements
 
@@ -916,14 +916,14 @@ The experimental results clearly establish a performance ranking:
 </tr>
 <tr>
 <td><b>Small Dataset</b><br/>(10,662 samples)</td>
-<td>✅ 76.74% (Naive Bayes)<br/>✅ 75.52% (SVM)</td>
-<td>❌ 50% (LSTM/GRU)<br/>⚠️ 71.95% (CNN)</td>
+<td> 76.74% (Naive Bayes)<br/> 75.52% (SVM)</td>
+<td> 50% (LSTM/GRU)<br/> 71.95% (CNN)</td>
 <td><b>ML Models</b></td>
 </tr>
 <tr>
 <td><b>Large Dataset</b><br/>(20,000+ samples)</td>
-<td>✅ 90.35% (Multiple ML)</td>
-<td>✅ 90.38% (CNN)<br/>⚠️ 80.06% (LSTM/GRU)</td>
+<td> 90.35% (Multiple ML)</td>
+<td> 90.38% (CNN)<br/> 80.06% (LSTM/GRU)</td>
 <td><b>Both (CNN edges)</b></td>
 </tr>
 </table>
@@ -959,27 +959,27 @@ The experimental results clearly establish a performance ranking:
 <tr>
 <td>Text Cleaning (lowercase, special chars)</td>
 <td>+5%</td>
-<td>🔴 Critical</td>
+<td> Critical</td>
 </tr>
 <tr>
 <td>Stopword Removal</td>
 <td>+3%</td>
-<td>🟠 High</td>
+<td>High</td>
 </tr>
 <tr>
 <td>Lemmatization</td>
 <td>+2%</td>
-<td>🟡 Medium</td>
+<td> Medium</td>
 </tr>
 <tr>
 <td>TF-IDF Vectorization (vs raw counts)</td>
 <td>+4%</td>
-<td>🔴 Critical</td>
+<td> Critical</td>
 </tr>
 <tr>
 <td><b>Total Improvement</b></td>
 <td><b>+10-14%</b></td>
-<td>🔴 <b>Essential</b></td>
+<td> <b>Essential</b></td>
 </tr>
 </table>
 
@@ -1142,7 +1142,7 @@ For most practical applications, **XGBoost or Logistic Regression** provide the 
 
 ---
 
-**Project Status:** ✅ Complete and Production-Ready  
+**Project Status:**  Complete and Production-Ready  
 **Final Model Recommendation:** XGBoost (92.1% accuracy, 2-3ms inference)  
 **Documentation Status:** Comprehensive  
 **Code Quality:** Modular and Reusable
