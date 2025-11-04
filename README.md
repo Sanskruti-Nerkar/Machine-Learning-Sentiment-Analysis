@@ -88,12 +88,12 @@ For comprehensive model evaluation, both datasets were merged to create a combin
 - **Column Structure**: `cleaned_Review`, `Sentiment`
 - **Purpose**: Test model robustness across different text styles and domains
 
-<img width="1189" height="590" alt="image" src="<img width="1170" height="559" alt="image" src="https://github.com/user-attachments/assets/312d8779-c503-4cd7-8824-43fdcb237424" />
-" />
+<img width="800" height="350" alt="image" src="<img width="1170" height="559" alt="image" src="https://github.com/user-attachments/assets/312d8779-c503-4cd7-8824-43fdcb237424" />
 
-*Figure 10: F1 score comparison across all models*
 
-*Figure 1: Class distribution across datasets*
+
+
+*Figure 1: Snippet of the Dataset*
 
 ## 🚀 Installation & Setup
 
