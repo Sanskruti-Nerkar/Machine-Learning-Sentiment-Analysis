@@ -88,9 +88,13 @@ For comprehensive model evaluation, both datasets were merged to create a combin
 - **Column Structure**: `cleaned_Review`, `Sentiment`
 - **Purpose**: Test model robustness across different text styles and domains
 
-<img width="800" height="350" alt="image" src="<img width="1170" height="559" alt="image" src="https://github.com/user-attachments/assets/312d8779-c503-4cd7-8824-43fdcb237424" />
+<img width="1170" height="559" alt="image" src="https://github.com/user-attachments/assets/312d8779-c503-4cd7-8824-43fdcb237424" />
 
 
+<p align="center">
+  <b>
+*Figure 1: Snippet of the Dataset*.</b>
+</p>
 
 
 *Figure 1: Snippet of the Dataset*
