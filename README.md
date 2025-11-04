@@ -824,7 +824,3 @@ loaded_lstm = load_model('models/lstm_sentiment.h5')
 - Validating labeled data quality
 - Discovering sentiment sub-categories
 
-### 8. Computational Efficiency Matters
-
-**Model Training Times** (on Dataset 1):
-- Naive Ba
