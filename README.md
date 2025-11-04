@@ -93,11 +93,11 @@ For comprehensive model evaluation, both datasets were merged to create a combin
 
 <p align="center">
   <b>
-*Figure 1: Snippet of the Dataset*.</b>
+Figure 1: Snippet of the Dataset</b>
 </p>
 
 
-*Figure 1: Snippet of the Dataset*
+
 
 ## 🚀 Installation & Setup
 
