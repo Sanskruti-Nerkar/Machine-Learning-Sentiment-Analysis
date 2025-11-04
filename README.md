@@ -439,7 +439,7 @@ clusters = hierarchical_model.fit_predict(X_test_tfidf.toarray())
 
 <p align="center">
   <b>
-Figure 3: Model Comparison</b>
+Figure 3 and 4: Model Comparison</b>
 </p>
 
 
@@ -460,8 +460,6 @@ Figure 3: Model Comparison</b>
 | **LSTM** | 0.5000 | 0.6667 | 0.5000 | 1.0000 | ~120s |
 | **GRU** | 0.5000 | 0.6667 | 0.5000 | 1.0000 | ~100s |
 
-![Dataset 1 Results](./results/plots/dataset1_performance.png)
-*Figure 4: Model performance on Rotten Tomatoes dataset*
 
 **Key Observations:**
 - Naive Bayes achieved highest accuracy (76.74%) on structured movie reviews
@@ -483,8 +481,6 @@ Figure 3: Model Comparison</b>
 | **LSTM** | 0.8006 | 0.7995 | ~150s |
 | **GRU** | 0.8006 | 0.7990 | ~130s |
 
-![Dataset 2 Results](./results/plots/dataset2_performance.png)
-*Figure 5: Model performance on Flipkart dataset*
 
 **Key Observations:**
 - CNN achieved highest accuracy (90.38%) on larger e-commerce dataset
@@ -506,8 +502,12 @@ Figure 3: Model Comparison</b>
 | **Logistic Regression** | 75.8% | Balanced precision and recall |
 | **Naive Bayes** | 74.3% | Good with clear polarity words |
 
-![Combined Dataset Results](./results/plots/combined_performance.png)
-*Figure 6: Model performance comparison on combined dataset*
+<img width="800" height="490" alt="image" src="https://github.com/user-attachments/assets/a95eb88c-ea48-40a8-aaad-a6fd52b5757c" />
+<p align="center">
+  <b>
+Figure 5: Visualization of Performance Metrics</b>
+</p>
+
 
 ### Performance Hierarchy
 
