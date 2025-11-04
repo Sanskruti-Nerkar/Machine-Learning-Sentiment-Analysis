@@ -88,12 +88,12 @@ For comprehensive model evaluation, both datasets were merged to create a combin
 - **Column Structure**: `cleaned_Review`, `Sentiment`
 - **Purpose**: Test model robustness across different text styles and domains
 
-<img width="1170" height="559" alt="image" src="https://github.com/user-attachments/assets/312d8779-c503-4cd7-8824-43fdcb237424" />
+<img width="800" height="380" alt="image" src="https://github.com/user-attachments/assets/312d8779-c503-4cd7-8824-43fdcb237424" />
 
 
 <p align="center">
   <b>
-Figure 1: Snippet of the Dataset</b>
+Figure 2: Snippet of the Dataset</b>
 </p>
 
 
@@ -215,8 +215,13 @@ X_test_padded = pad_sequences(X_test_sequences, maxlen=maxlen,
 - `maxlen=100`: Maximum sequence length
 - `oov_token="<OOV>"`: Out-of-vocabulary token handling
 
-![Preprocessing Pipeline](./results/plots/preprocessing_pipeline.png)
-*Figure 2: Complete preprocessing workflow*
+<img width="1170" height="559" alt="image" src="https://github.com/user-attachments/assets/312d8779-c503-4cd7-8824-43fdcb237424" />
+
+<p align="center">
+  <b>
+Figure 2: Figure of preprocessing workflow</b>
+</p>
+
 
 ## 🤖 Models Implemented
 
