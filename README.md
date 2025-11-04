@@ -5,21 +5,24 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-latest-green.svg)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Project Objectives](#project-objectives)
-- [Datasets](#datasets)
-- [Installation & Setup](#installation--setup)
-- [Data Preprocessing Pipeline](#data-preprocessing-pipeline)
-- [Models Implemented](#models-implemented)
-- [Experimental Results](#experimental-results)
-- [Visualization & Analysis](#visualization--analysis)
-- [Usage Guide](#usage-guide)
-- [Key Findings & Insights](#key-findings--insights)
-- [Future Work](#future-work)
-- [Project Structure](#project-structure)
-- [Contributors](#contributors)
-- [License](#license)
+## 📋 ## 📘 Table of Contents
+
+| Section | Description |
+|----------|--------------|
+| [Overview](#overview) | Brief introduction to the project and its significance. |
+| [Project Objectives](#project-objectives) | Defines the goals and motivation behind the project. |
+| [Datasets](#datasets) | Details about the datasets used, their sources, and key features. |
+| [Installation & Setup](#installation--setup) | Step-by-step guide to set up the environment and dependencies. |
+| [Data Preprocessing Pipeline](#data-preprocessing-pipeline) | Explains data cleaning, tokenization, and transformation steps. |
+| [Models Implemented](#models-implemented) | Overview of ML and DL models applied in the project. |
+| [Experimental Results](#experimental-results) | Comparison of model performances and evaluation metrics. |
+| [Visualization & Analysis](#visualization--analysis) | Insights from visual representations such as graphs and heatmaps. |
+| [Usage Guide](#usage-guide) | Instructions on how to run and test the models. |
+| [Key Findings & Insights](#key-findings--insights) | Summary of important observations and interpretations. |
+| [Future Work](#future-work) | Potential improvements and next research directions. |
+| [Project Structure](#project-structure) | Description of repository files and organization. |
+| [Contributors](#contributors) | List of project authors and contributors. |
+| [License](#license) | Licensing information for the project. |
 
 ## 🎯 Overview
 
