@@ -897,9 +897,9 @@ The experimental results clearly establish a performance ranking:
 
 | Rank | Model | Best Accuracy | Category | Primary Advantage |
 |------|-------|---------------|----------|-------------------|
-| 🥇 | **XGBoost** | 92.1% | ML | Best overall - regularization + feature weighting |
-| 🥈 | **CNN (1D)** | 90.38% | DL | Best DL model - local pattern detection |
-| 🥉 | **Random Forest** | 90.35% | ML | Most robust - ensemble averaging |
+| 1st | **XGBoost** | 92.1% | ML | Best overall - regularization + feature weighting |
+| 2nd | **CNN (1D)** | 90.38% | DL | Best DL model - local pattern detection |
+| 3rd | **Random Forest** | 90.35% | ML | Most robust - ensemble averaging |
 | 4th | **Logistic Regression** | 90.35% | ML | Most interpretable - linear coefficients |
 | 5th | **SVM** | 90.33% | ML | Best margin - high-dimensional handling |
 
@@ -1127,12 +1127,12 @@ Expected runtime: **40-50 minutes** on CPU, **15-20 minutes** on GPU.
 
 ### Acknowledgments of Success
 
-✅ **Achieved 92.1% accuracy** (target: 85%)  
-✅ **Implemented 9 different models** successfully  
-✅ **Comprehensive preprocessing pipeline** (+10% accuracy gain)  
-✅ **Cross-domain validation** completed  
-✅ **Production-ready code** with full documentation  
-✅ **Extensive visualizations** for interpretation  
+ **Achieved 92.1% accuracy** (target: 85%)  
+ **Implemented 9 different models** successfully  
+ **Comprehensive preprocessing pipeline** (+10% accuracy gain)  
+ **Cross-domain validation** completed  
+ **Production-ready code** with full documentation  
+ **Extensive visualizations** for interpretation  
 
 ### Closing Statement
 
