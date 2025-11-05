@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 
-## 🎯 Overview
+##  Overview
 
 This project presents a comprehensive comparative analysis of **Machine Learning (ML)** and **Deep Learning (DL)** approaches for sentiment classification on textual data. The study evaluates nine different models across two distinct datasets, providing insights into model performance, generalization capabilities, and practical applicability in real-world scenarios.
 
@@ -18,7 +18,7 @@ This project presents a comprehensive comparative analysis of **Machine Learning
 - Unsupervised clustering for sentiment pattern discovery
 - Comprehensive performance evaluation with multiple metrics
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 1. **Compare Traditional ML vs. Deep Learning**: Evaluate the effectiveness of classical machine learning models against modern deep learning architectures
 2. **Multi-Dataset Analysis**: Test model generalization across different text domains (formal reviews vs. informal customer feedback)
@@ -26,7 +26,7 @@ This project presents a comprehensive comparative analysis of **Machine Learning
 4. **Clustering Analysis**: Discover inherent sentiment patterns using unsupervised learning techniques
 5. **Practical Implementation**: Provide working code for real-world sentiment prediction
 
-## 📊 Datasets
+##  Datasets
 
 ### Dataset 1: Rotten Tomatoes Movie Reviews
 
@@ -99,7 +99,7 @@ Figure 2: Snippet of the Dataset</b>
 
 
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 ```bash
@@ -226,7 +226,7 @@ Figure 2: Figure of preprocessing workflow</b>
 </p>
 
 
-## 🤖 Models Implemented
+##  Models Implemented
 
 ### Machine Learning Models
 
@@ -444,7 +444,7 @@ Figure 3 and 4: Model Comparison</b>
 
 
 
-## 📈 Experimental Results
+##  Experimental Results
 
 ### Dataset 1: Rotten Tomatoes Movie Reviews
 
@@ -515,7 +515,7 @@ Figure 5: Visualization of Performance Metrics</b>
 
 
 
-## 📊 Visualization & Analysis
+##  Visualization & Analysis
 
 ### Confusion Matrices
 
@@ -606,7 +606,7 @@ Figure 11: Most frequent words in negative reviews* </b>
 - Clear lexical distinction between sentiment classes
 - Domain-specific vocabulary emerged (e.g., "plot" in movies, "product" in e-commerce)
 
-## 💻 Usage Guide
+##  Usage Guide
 
 ### 1. Training Models
 
@@ -764,7 +764,7 @@ from tensorflow.keras.models import load_model
 loaded_lstm = load_model('models/lstm_sentiment.h5')
 ```
 
-## 🔍 Key Findings & Insights
+##  Key Findings & Insights
 
 ### 1. Dataset Impact on Performance
 
